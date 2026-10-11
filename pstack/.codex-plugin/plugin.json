@@ -16,7 +16,7 @@
     "unslop"
   ],
   "name": "pstack-plugin",
-  "version": "0.15.15",
+  "version": "0.15.17",
   "skills": "./skills/",
   "interface": {
     "displayName": "pstack",
